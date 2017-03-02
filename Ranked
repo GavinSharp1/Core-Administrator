@@ -1,0 +1,6 @@
+local Core = {
+Admins = {};
+Founder = {};
+CoOwner = {};
+OwnerAssistant = {};
+};
